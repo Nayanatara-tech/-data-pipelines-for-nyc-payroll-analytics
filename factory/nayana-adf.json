@@ -1,0 +1,17 @@
+{
+	"name": "nayana-adf",
+	"properties": {
+		"globalParameters": {
+			"FiscalYear": {
+				"type": "int",
+				"value": 2020
+			}
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fd4c1063-0365-4e7e-894c-c6aeb949388e",
+		"tenantId": "c979b950-24b1-4928-8a67-4a237f0a38c7"
+	}
+}
